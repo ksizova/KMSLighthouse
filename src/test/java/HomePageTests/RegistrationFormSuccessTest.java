@@ -1,4 +1,4 @@
-package RegistrationFormTest;
+package HomePageTests;
 
 import PageObject.HomePage;
 import PageObject.ThankYouPage;
